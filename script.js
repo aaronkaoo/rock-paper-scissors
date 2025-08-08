@@ -99,7 +99,7 @@ if (humanScore > computerScore) {
 else if (humanScore < computerScore) {
     console.log("I won! Get rekt nerd")
 }
-else if (humanScore = computerScore) {
+else if (humanScore === computerScore) {
     console.log("We tied. Bruh")
 }
 }
